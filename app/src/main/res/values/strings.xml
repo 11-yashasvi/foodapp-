@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name" translatable="false">task 1</string>
+<string name="textview" translatable="false">textview</string>
+    <string name="order_details">order details</string>
+    <string name="items_ordered">items ordered</string>
+    <string name="quantity">2</string>
+    <string name="See_details">See details</string>
+    <string name="Order_details">Order details</string>
+    <string name="report_issue">Report Issue</string>
+
+
+</resources>
+
+
+
+
+
